@@ -1,7 +1,7 @@
 <h1 align="center">Eai! sou Mateus Fraga</h1>
 
 ## Sobre mim
-estudante 
+estudante, técnico de informática em formação;
 
 ## Tecnologias e ferramentas
 
@@ -31,6 +31,7 @@ estudante
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusfraga&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
 ## Conecte-se comigo
-[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com) 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:SEUEMAIL)
-[![X](https://img.shields.io/badge/X-000?style=for-the-badge&logo=x)](https://x.com/SEUUSERNAME)
+
+[![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/mateus-fraga-961541313)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateus-fraga)
+
