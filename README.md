@@ -35,3 +35,5 @@ estudante, técnico de informática em formação;
 [![linkedin](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin&logoColor=blue)](www.linkedin.com/in/mateus-fraga-961541313)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateus-fraga)
 
+
+É pouco mais é com amor XD
