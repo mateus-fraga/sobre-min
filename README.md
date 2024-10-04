@@ -16,7 +16,7 @@ estudante, técnico de informática;
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
 
 
-## Sistema operacional
+## Sistemas operacionais
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)
 
@@ -26,7 +26,8 @@ estudante, técnico de informática;
 ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mateusfraga&layout=compact&bg_color=034&border_color=38B3DC&title_color=E94D5F&text_color=FFS)
+## E no Github?
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MateusFraga&layout=compact&bg_color=034&border_color=38B3DC&title_color=E94D5F&text_color=FFS)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusFraga&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
