@@ -1,7 +1,7 @@
 <h1 align="center">Eai! sou Mateus Fraga</h1>
 
 ## Sobre mim
-estudante, técnico de informática em formação;
+estudante, técnico de informática;
 
 ## Tecnologias e ferramentas
 
