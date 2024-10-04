@@ -29,6 +29,7 @@ estudante, técnico de informática;
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mateusfraga&layout=compact&bg_color=034&border_color=38B3DC&title_color=E94D5F&text_color=FFS)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusFraga&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+è pouco mais é de coração kkkk
 
 ## Conecte-se comigo
 
