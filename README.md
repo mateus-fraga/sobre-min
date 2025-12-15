@@ -1,7 +1,7 @@
-<h1 align="center">Eai! sou Mateus Fraga</h1>
+<h1 align="center">Eai! Eu sou Mateus Fraga</h1>
 
-## Sobre mim
-estudante, técnico de informática;
+## Um pouco Sobre mim
+Estudante, cursando engenharia de software, técnico em informática, gosto de jogos e de coisas sawgadas
 
 ## Tecnologias e ferramentas
 
@@ -12,7 +12,7 @@ estudante, técnico de informática;
 ![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-000?style=for-the-badge&logo=c&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mateus-fraga)
 ![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=white)
 
 
@@ -27,7 +27,6 @@ estudante, técnico de informática;
 ![C++](https://img.shields.io/badge/C%2B%2B-000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## E no Github?
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MateusFraga&layout=compact&bg_color=034&border_color=38B3DC&title_color=E94D5F&text_color=FFS)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MateusFraga&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
